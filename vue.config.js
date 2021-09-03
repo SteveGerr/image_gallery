@@ -1,5 +1,5 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/image_gallery/'
+    ? '/DnD_image_gallery/'
     : '/'
 }
